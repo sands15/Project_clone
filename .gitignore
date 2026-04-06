@@ -6,3 +6,6 @@ data/**/*.csv
 
 #.pkl파일 제외
 *.pkl
+
+#.model의 txt파일 제외
+model/**/*.txt
