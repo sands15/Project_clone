@@ -4,5 +4,5 @@ english_name = "Sonjunghoon"
 
 print("AI Engineering Student")
 
-
+#이력변경 - 1
 
